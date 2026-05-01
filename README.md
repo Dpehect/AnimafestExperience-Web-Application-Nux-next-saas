@@ -3,6 +3,8 @@
 ## Overview
 AnimaFest Enterprise is a high-performance, decoupled internship platform designed for global scale. This project serves as a showcase of senior-level software engineering, architectural decision-making, and premium UI/UX design. The platform manages a relational ecosystem of over 2000 internship opportunities across 30+ countries, utilizing a "Pure JSON" backend architecture and a custom-built, library-free frontend design system.
 
+Inspired by the original platform: [Animafest Experience](https://www.animafestexperience.net/internshipsabroad/)
+
 ## Architectural Philosophy
 The project follows a strict decoupled approach to ensure maximum scalability and maintainability.
 
@@ -25,6 +27,8 @@ The project follows a strict decoupled approach to ensure maximum scalability an
 
 ## Genel Bakış
 AnimaFest Enterprise, küresel ölçekte çalışmak üzere tasarlanmış, yüksek performanslı ve ayrıştırılmış (decoupled) bir staj platformudur. Bu proje; senior seviye yazılım mühendisliği yetkinliklerini, mimari karar verme süreçlerini ve premium UI/UX tasarım uygulamalarını sergilemek amacıyla geliştirilmiştir. Platform, 30'dan fazla ülkede 2000'den fazla staj fırsatından oluşan ilişkisel bir ekosistemi, "Pure JSON" backend mimarisi ve kütüphane bağımsız özel bir frontend tasarım sistemi ile yönetmektedir.
+
+Orijinal platformdan esinlenilmiştir: [Animafest Experience](https://www.animafestexperience.net/internshipsabroad/)
 
 ## Mimari Felsefe
 Proje, maksimum ölçeklenebilirlik ve sürdürülebilirlik sağlamak amacıyla katı bir ayrıştırılmış yaklaşım izler.
