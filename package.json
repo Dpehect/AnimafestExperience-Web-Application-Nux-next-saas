@@ -1,0 +1,19 @@
+{
+  "name": "animafest",
+  "version": "1.0.0",
+  "description": "A modern, high-performance internship platform clone developed with a \"Pure JSON\" backend and a premium \"Glassmorphism\" frontend.",
+  "main": "index.js",
+  "scripts": {
+    "dev:backend": "cd backend && npm run start:dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev": "lsof -ti:3000,3001 | xargs kill -9 || true && concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "install:all": "npm install && cd backend && npm install && cd ../frontend && npm install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}

@@ -1,0 +1,23 @@
+// Animal Concept - Vibrant Enterprise Palette
+$color-bg: #040d12; // Deep Jungle Night
+$color-surface: #183d3d; // Jungle Teal
+$color-primary: #5c8374; // Sage Green
+$color-accent: #93b1a6; // Mint Accent
+$color-danger: #e76161; // Sunset Red
+$color-text: #f0f0f0;
+$color-text-muted: #93b1a6;
+$color-border: rgba(147, 177, 166, 0.15);
+
+// Vibrant Overrides for "Colorful" feel
+$color-vibrant-fox: #ff8c42; // Fox Orange
+$color-vibrant-parrot: #4cc9f0; // Parrot Blue
+
+:root {
+  --color-bg: #{$color-bg};
+  --color-surface: #{$color-surface};
+  --color-primary: #{$color-vibrant-fox};
+  --color-accent: #{$color-vibrant-parrot};
+  --color-text: #{$color-text};
+  --color-text-muted: #{$color-text-muted};
+  --color-border: #{$color-border};
+}
