@@ -45,3 +45,10 @@ Proje, maksimum ölçeklenebilirlik ve sürdürülebilirlik sağlamak amacıyla 
 - **Atomic Design**: Bileşenler, kod temizliği ve yeniden kullanılabilirlik standartlarını korumak için Atomlar, Moleküller ve Organizmalar şeklinde organize edilmiştir.
 - **Durum Yönetimi**: Uygulamanın merkezi durumu Pinia üzerinden yönetilmektedir.
 - **Performans**: Devasa veri setlerini frontend performansından ödün vermeden yönetmek için sunucu taraflı sayfalama (pagination) uygular.
+
+
+---
+
+## Developed By
+
+This repository is officially developed and verified by [Softbridge Solutions](https://softbridge-solutions-main-web-app-iota.vercel.app), an AI-first technology company founded in Adana, Türkiye.
